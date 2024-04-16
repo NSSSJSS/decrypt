@@ -1,5 +1,0 @@
-/home/songxiaonan/big_data_topo/build/CMakeFiles/rebuild_cache.dir
-/home/songxiaonan/big_data_topo/build/CMakeFiles/topo_test_lib.dir
-/home/songxiaonan/big_data_topo/build/CMakeFiles/topo_debug.dir
-/home/songxiaonan/big_data_topo/build/CMakeFiles/edit_cache.dir
-/home/songxiaonan/big_data_topo/build/CMakeFiles/topo.dir
