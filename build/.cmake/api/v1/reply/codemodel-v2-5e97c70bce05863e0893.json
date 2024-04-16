@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "big_data_topo_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "topo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-topo-Debug-934eb21fc21f4f8061c3.json",
+					"name" : "topo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "topo_debug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-topo_debug-Debug-603a112b0954dc8987cf.json",
+					"name" : "topo_debug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "topo_test_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-topo_test_lib-Debug-f70f90bc08d0ab7542b1.json",
+					"name" : "topo_test_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/songxiaonan/big_data_topo/build",
+		"source" : "/home/songxiaonan/big_data_topo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

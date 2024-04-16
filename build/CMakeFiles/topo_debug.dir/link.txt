@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc -g   CMakeFiles/topo_debug.dir/big_data_topo.c.o CMakeFiles/topo_debug.dir/sqlite3.c.o CMakeFiles/topo_debug.dir/test.c.o  -o ../bin/topo_debug   -L/home/songxiaonan/big_data_topo/lib  -Wl,-rpath,/home/songxiaonan/big_data_topo/lib -ldl -lm -lpthread 
